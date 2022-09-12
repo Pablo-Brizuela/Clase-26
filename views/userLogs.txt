@@ -1,2 +1,9 @@
 El usario ingreso en: /
 El usario ingreso en: /
+El usario ingreso en: /admin?user=ana
+El usario ingreso en: /admin?user=pepe
+El usario ingreso en: /admin?user=pepe
+El usario ingreso en: /admin?user=Ada
+El usario ingreso en: /admin?user=ana
+El usario ingreso en: /admin
+El usario ingreso en: /
